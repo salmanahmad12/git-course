@@ -1,2 +1,4 @@
 get the data..
 process the data
+
+create an avatar . i did it in feature1 branch
